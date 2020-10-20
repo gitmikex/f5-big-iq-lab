@@ -116,7 +116,7 @@ This CSR will be send to Let's encrypt server which will sign it and send it bac
 
 - Name: ``webapp123``
 - Issuer: ``Venafi UDF lab``
-- Policy Folder: ``Seattle DataCenter``
+- : ``Seattle DataCenter``
 - Common Name: ``webapp123.f5demo.com``
 - Division: ``UDF lab``
 - Organization: ``F5``
